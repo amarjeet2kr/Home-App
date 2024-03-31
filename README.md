@@ -8,6 +8,8 @@ HomeApp is an Angular 17.3.2 application designed to facilitate home search and 
 **Home Cards Details**: Each home is presented as a clickable card, leading users to detailed information about the home and the booking process.<br/>
 **Booking Functionality:** Enables users to select a location, choose a home, and proceed with booking, streamlining the reservation process.
 
+![Uploading image.png…]()
+
 ## Set up Project
 
 1. Clone the Repository:
