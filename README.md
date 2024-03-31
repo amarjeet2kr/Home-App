@@ -1,30 +1,30 @@
 # HomeApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+HomeApp is an Angular 17.3.2 application designed to facilitate home search and booking for users. It features a user-friendly interface with the following components:
 
-## Clone the HomeApp
+**Navbar:** A navigation bar providing easy access to different sections of the application.
+Search By Option: Allows users to search for homes based on specific criteria, such as city location.
+**List of Homes:** Displays a list of homes from various locations, enabling users to explore available options.
+**Home Cards Details**: Each home is presented as a clickable card, leading users to detailed information about the home and the booking process.
+**Booking Functionality:** Enables users to select a location, choose a home, and proceed with booking, streamlining the reservation process.
 
-`https://github.com/amarjeet2kr/Home-App.git`
+## Set up Project
 
-## Development server
+1. Clone the Repository:
+`git clone https://github.com/amarjeet2kr/Home-App.git`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+2. Install Dependencies:
+`cd Home-App`
+`npm install`
 
-## Code scaffolding
+3.Run the db.json server
+`npx json-server --watch db.json`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+4. Run the Application:
+`npx ng serve` for a dev server.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+5. Access the Application:
+Navigate to `http://localhost:4200/`.
 
 ## Further help
 
