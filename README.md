@@ -1,4 +1,4 @@
-![image](https://github.com/amarjeet2kr/Home-App/assets/74978503/704061fb-6f7b-4637-90b1-1cf1d370c1d2)![image](https://github.com/amarjeet2kr/Home-App/assets/74978503/014f6062-101b-407f-986f-245fd9ed2342)# HomeApp
+# HomeApp
 
 HomeApp is an Angular 17.3.2 application designed to facilitate home search and booking for users. It features a user-friendly interface with the following components:
 
