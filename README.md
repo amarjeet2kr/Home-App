@@ -17,7 +17,7 @@ HomeApp is an Angular 17.3.2 application designed to facilitate home search and 
 `cd Home-App`
 `npm install`
 
-3.Run the db.json server
+3. Run the db.json server
 `npx json-server --watch db.json`
 
 4. Run the Application:
