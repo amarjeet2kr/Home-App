@@ -1,8 +1,10 @@
-## Cone the HomeApp
-
 # HomeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+
+## Clone the HomeApp
+
+`https://github.com/amarjeet2kr/Home-App.git`
 
 ## Development server
 
